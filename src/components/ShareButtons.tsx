@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Share2, Check } from "lucide-react";
-import { XTwitterIcon, LinkedinIcon, WhatsAppIcon } from "@/components/Icons";
+import { WhatsAppIcon } from "@/components/Icons";
 
 interface ShareButtonsProps {
   title: string;
@@ -50,33 +50,14 @@ export function ShareButtons({ title, slug }: ShareButtonsProps) {
     <div className="flex items-center gap-2 text-zinc-500 dark:text-zinc-400 text-xs">
       <span className="font-medium mr-1">Compartir:</span>
       <button
-        onClick={shareTwitter}
-        type="button"
-        title="Compartir en X"
-        aria-label="Compartir en X"
-        className="p-1.5 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
-      >
-        <XTwitterIcon className="w-3.5 h-3.5" />
-      </button>
-
-      <button
         onClick={shareWhatsApp}
         type="button"
         title="Compartir en WhatsApp"
         aria-label="Compartir en WhatsApp"
-        className="p-1.5 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
+        className="flex items-center gap-1 px-2.5 py-1 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
       >
         <WhatsAppIcon className="w-3.5 h-3.5" />
-      </button>
-
-      <button
-        onClick={shareLinkedIn}
-        type="button"
-        title="Compartir en LinkedIn"
-        aria-label="Compartir en LinkedIn"
-        className="p-1.5 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
-      >
-        <LinkedinIcon className="w-3.5 h-3.5" />
+        <span>WhatsApp</span>
       </button>
 
       <button

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Mail } from "lucide-react";
-import { GithubIcon, XTwitterIcon, LinkedinIcon } from "@/components/Icons";
+import { InstagramIcon } from "@/components/Icons";
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -14,45 +14,31 @@ export function Footer() {
           <span className="text-zinc-400 dark:text-zinc-500">Hecho con simplicidad y propósito.</span>
         </div>
 
-        {/* Enlaces a Redes Sociales */}
+        {/* Enlaces a Instagram y Feedback */}
         <div className="flex items-center gap-4">
           <a
-            href="https://x.com"
+            href="https://www.instagram.com/leandro.orsenigo/?hl=es-la"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="X (Twitter)"
-            className="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
+            aria-label="Instagram"
+            className="flex items-center gap-1.5 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
+            title="Instagram @leandro.orsenigo"
           >
-            <XTwitterIcon className="w-4 h-4" />
+            <InstagramIcon className="w-4 h-4" />
+            <span className="font-medium">Instagram</span>
           </a>
-          <a
-            href="https://github.com/Lean189"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="GitHub"
-            className="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
-          >
-            <GithubIcon className="w-4 h-4" />
-          </a>
-          <a
-            href="https://linkedin.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="LinkedIn"
-            className="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
-          >
-            <LinkedinIcon className="w-4 h-4" />
-          </a>
+          <span className="text-zinc-300 dark:text-zinc-700">•</span>
           <Link
             href="/feedback"
-            aria-label="Contacto / Feedback"
-            className="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
-            title="Escríbeme"
+            className="flex items-center gap-1.5 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
+            title="Enviar feedback"
           >
             <Mail className="w-4 h-4" />
+            <span className="font-medium">Feedback</span>
           </Link>
         </div>
       </div>
     </footer>
   );
 }
+
