@@ -12,15 +12,15 @@ const geistSans = Geist({
 
 export const metadata: Metadata = {
   title: {
-    default: "Lean — Blog personal y notas sobre tecnología, diseño y vida",
+    default: "Lean — Blog personal",
     template: "%s | Lean",
   },
   description:
-    "Un espacio personal de reflexión, minimalismo, desarrollo de software y construcción de hábitos conscientes.",
+    "Un espacio personal de reflexión",
   openGraph: {
     title: "Lean — Blog personal",
     description:
-      "Un espacio personal de reflexión, minimalismo, desarrollo de software y construcción de hábitos conscientes.",
+      "Un espacio personal de reflexión",
     type: "website",
   },
 };

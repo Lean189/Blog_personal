@@ -20,7 +20,8 @@ export default function HomePage() {
         </h1>
 
         <p className="text-base sm:text-lg text-zinc-600 dark:text-zinc-400 leading-relaxed max-w-2xl">
-          Un espacio personal donde escribo sobre lo que pienso, lo que siento y las cosas que voy aprendiendo en el camino. Sin algoritmos, sin prisas y lejos del ruido de las redes.
+          Un espacio personal donde escribo sobre lo que pienso, lo que siento y las cosas que voy aprendiendo en el camino. No vas a leer algo profesional,ni muy lindo,son mis sentimientos plasmados en crudo.
+          Espero que les guste,y si tienen ganas me pueden dar su feedback.
         </p>
 
         <div className="pt-2 flex items-center gap-4 text-sm font-medium">

@@ -27,15 +27,15 @@ export default function AboutPage() {
         </p>
 
         <p>
-          Creé este blog simplemente como un rincón personal y tranquilo en internet. Un lugar donde sentarme a escribir sobre lo que voy pensando, lo que siento y las cosas cotidianas que me van atravesando con el tiempo.
+          Creé este blog simplemente como un hobby. Un lugar donde sentarme a escribir sobre lo que voy pensando, lo que siento.
         </p>
 
         <p>
-          No busco dar lecciones de nada ni tener verdades absolutas. Escribir es mi forma de bajar un cambio, hacer una pausa entre tanto ruido diario y mirar con un poco más de claridad lo que me pasa por dentro y a mi alrededor.
+          No busco dar lecciones de nada ni tener verdades absolutas. Escribir es mi forma de bajar un cambio, hacer una pausa entre tanto ruido y mirar con un poco más de claridad lo que me pasa por dentro y a mi alrededor.
         </p>
 
         <p>
-          A veces serán notas sobre inquietudes personales, libros o tecnología; otras veces, pensamientos simples sobre el día a día que quise atrapar antes de que se me escaparan.
+          Cuento mi proceso,mi avance con la psicologia y mis pensamientos mas intimos. No es profesional,ni tiene un gran formato pero es lo que me sale.
         </p>
 
         <p>
