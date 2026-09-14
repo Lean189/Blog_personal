@@ -1,9 +1,19 @@
 ---
 title: "Aprender a sentir y esperar"
-date: "2026-09-14"
+date: "2026-09-08"
 summary: "Aprender a sentir implica dejar fluir las emociones sin intentar controlarlas. Una reflexión sobre la paciencia, el soltar el control y dejarse llevar por la vida."
 tags: ["Sentimientos", "Paciencia", "Soltar"]
 author: "Lean"
+---
+
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+
 ---
 
 Yo pensé que sabía sentir.

@@ -1,9 +1,19 @@
 ---
 title: "Cuando se pierde la confianza"
-date: "2026-09-06"
+date: "2026-09-05"
 summary: "Una vez perdida la confianza, tus palabras pierden valor. Reflexión sobre reconocer los errores, hacerse cargo y entender que la confianza se reconstruye con hechos."
 tags: ["Confianza", "Sanar", "Reconstruir"]
 author: "Lean"
+---
+
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+
 ---
 
 Una vez perdida la confianza, tus palabras pierden valor.

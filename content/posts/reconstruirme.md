@@ -1,9 +1,19 @@
 ---
 title: "Reconstruirme"
-date: "2026-09-14"
+date: "2026-09-07"
 summary: "El camino hacia la reconstrucción personal no es fácil. Una mirada sobre el valor de pedir ayuda, entenderse, quererse y empezar a hacer las preguntas correctas."
 tags: ["Crecimiento", "Terapia", "Sanar", "Reconstrucción"]
 author: "Lean"
+---
+
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+
 ---
 
 ¿Qué es reconstruirse?

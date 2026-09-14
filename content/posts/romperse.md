@@ -1,9 +1,19 @@
 ---
 title: "Romperse"
-date: "2026-09-14"
+date: "2026-09-06"
 summary: "Una reflexión sobre las heridas, los parches que nos ponemos para seguir adelante, y la dolorosa pero necesaria tarea de reconstruirse tras romperse verdaderamente."
 tags: ["Reflexión", "Sanar", "Reconstrucción"]
 author: "Lean"
+---
+
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+
 ---
 
 Hay muchas situaciones en la vida que, sin querer queriendo, a uno lo rompen.

@@ -1,9 +1,19 @@
 ---
 title: "A veces uno no se da cuenta"
-date: "2026-09-07"
+date: "2026-09-04"
 summary: "Crecí creyendo que no incomodar era algo bueno. Una reflexión sobre entender a tiempo, dejar de esconderse y aprender a ser sincero con uno mismo y con los demás."
 tags: ["Aprender", "Sinceridad", "Cambio"]
 author: "Lean"
+---
+
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+
 ---
 
 A veces uno no se da cuenta hasta que es tarde.

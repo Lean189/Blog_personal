@@ -1,9 +1,19 @@
 ---
 title: "La coraza"
-date: "2026-09-08"
+date: "2026-09-03"
 summary: "De grande estoy aprendiendo que esa coraza hacía que viera la vida en blanco o negro. Una reflexión sobre sentir, desarmar viejas defensas y elegir sanar."
 tags: ["Reflexión", "Sentimientos", "Crecimiento"]
 author: "Lean"
+---
+
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+
 ---
 
 ¿Por qué a algunos nos enseñan que sentir está mal?
