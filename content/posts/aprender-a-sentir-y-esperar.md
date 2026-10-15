@@ -13,6 +13,10 @@ author: "Lean"
 > 4. [Romperse](/blog/romperse)
 > 5. [Reconstruirme](/blog/reconstruirme)
 > 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+> 7. [Miedo](/blog/miedo)
+> 8. [Soltar](/blog/soltar)
+> 9. [Cambiar](/blog/cambiar)
+> 10. [Punto de guardado](/blog/punto-de-guardado)
 
 ---
 

@@ -6,6 +6,20 @@ tags: ["Miedo", "Sanar", "Reflexiones"]
 author: "Lean"
 ---
 
+> *Este texto forma parte de una serie. Para seguir el hilo, te recomiendo leerlos en este orden:*
+> 1. [La coraza](/blog/la-coraza)
+> 2. [A veces uno no se da cuenta](/blog/a-veces-uno-no-se-da-cuenta)
+> 3. [Cuando se pierde la confianza](/blog/cuando-se-pierde-la-confianza)
+> 4. [Romperse](/blog/romperse)
+> 5. [Reconstruirme](/blog/reconstruirme)
+> 6. [Aprender a sentir y esperar](/blog/aprender-a-sentir-y-esperar)
+> 7. [Miedo](/blog/miedo)
+> 8. [Soltar](/blog/soltar)
+> 9. [Cambiar](/blog/cambiar)
+> 10. [Punto de guardado](/blog/punto-de-guardado)
+
+---
+
 ¿Qué es el miedo?
 Mejor dicho, ¿qué es el miedo para mí en este momento?
 Según el diccionario, el miedo es una emoción primaria, básica y universal que surge como una alarma de supervivencia ante la percepción de un peligro, una amenaza o un riesgo, ya sea real o imaginario.
